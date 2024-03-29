@@ -1,12 +1,11 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://i.imgur.com/Va0TnGD.png" alt="Logo" width="80" height="80">
 
-<!--
+  <h3 align="center">Laven Designs</h3>
 
-**Here are some ideas to get you started:**
+  <p align="center">
+    <a href="https://lavendesigns.tech">lavendesigns.tech</strong></a>
+  </p>
+</div>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Hi! We're Laven Designs, a design and development group specializing in web development, web design, and graphic design.
